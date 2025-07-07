@@ -36,7 +36,7 @@ This led us directly to a press release from a US government website, detailing 
 Within the official documents, we found the crucial piece of information needed to construct our flag.
 
 ```
-Blitz{1:16-cr-313}
+Blitz{1:16-mj-406}
 ```
 
 
